@@ -13,7 +13,7 @@ A major challenge in this endeavor is maintaining a stable and sufficient supply
 
 The key to achieving this lies in leveraging predictive analytics. By analyzing historical data and identifying patterns in bike usage, we can forecast the hourly demand for rental bikes. Factors such as weather conditions, time of day, day of the week, public events, and seasonal variations can be incorporated into the predictive model to enhance its accuracy.
 
-## Problem Statement
+## Problem_Statement
 Rental bikes have become a cornerstone of enhanced mobility and convenience. Ensuring a stable supply of rental bikes at the right time and place is crucial to minimize waiting times and maximize user satisfaction. However, striking the right balance in bike supply is challenging. Excess bikes lead to wasted resources, including maintenance costs and parking space, while insufficient bikes result in revenue loss and potential long-term customer dissatisfaction.
 
 To address this, our project aims to investigate key variables that influence the hourly demand for rental bikes and develop a predictive model to estimate the number of bikes required each hour. Our goals are to:
