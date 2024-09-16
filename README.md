@@ -6,7 +6,7 @@
 - [Installation](#installation)
 - [Conclusion](#conclusion)
 
-! [Seoul Bike](seoul bike.jpeg)
+
 ## Introduction
 In modern urban cities, the introduction of rental bikes has significantly enhanced mobility and provided a convenient mode of transportation. To maximize the benefits of this service, it is essential to ensure that rental bikes are available and accessible to the public at the right time, thereby minimizing waiting times and improving user satisfaction.
 A major challenge in this endeavor is maintaining a stable and sufficient supply of rental bikes across the city. This requires accurately predicting the number of bikes needed at each hour to meet demand. Effective prediction helps in ensuring that bikes are evenly distributed, reducing shortages and surpluses at various locations.
