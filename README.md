@@ -7,7 +7,7 @@
 - [Conclusion](#conclusion)
 
 ![Image Description](Bike_Sharing_Demand_Prediction
-/seoul bike.jpeg
+/seoul_bike.jpeg
 )
 
 ## Introduction
